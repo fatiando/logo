@@ -9,3 +9,7 @@ Source files for the logos.
 `fatiando-banner.png`:
 
 ![The banner](https://raw.githubusercontent.com/fatiando/logo/master/fatiando-banner.png)
+
+`fatiando-banner-long.png`:
+
+![The banner in one line](https://raw.githubusercontent.com/fatiando/logo/master/fatiando-banner-long.png)
