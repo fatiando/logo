@@ -13,3 +13,7 @@ Source files for the logos.
 `fatiando-banner-long.png`:
 
 ![The banner in one line](https://raw.githubusercontent.com/fatiando/logo/master/fatiando-banner-long.png)
+
+`fatiando-banner-with-url.png`:
+
+![The banner with the fatiando.org url](https://raw.githubusercontent.com/fatiando/logo/master/fatiando-banner-with-url.png)
