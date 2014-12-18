@@ -1,10 +1,17 @@
-# The Fatiando a Terra logo
+# Vector and raster files for The Fatiando a Terra logo
 
-Source files for the logos.
+The logo was hand-drawn, scanned, and tweaked in
+[Inkscape](https://inkscape.org/en/).
+See [PR #2](https://github.com/fatiando/logo/pull/2) for more details of the
+process.
+
+## The logo
 
 `fatiando-logo.png`:
 
 ![The logo](fatiando-logo.png)
+
+## Banners with "Fatiando a Terra" written on them
 
 `fatiando-banner.png`:
 
