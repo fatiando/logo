@@ -13,10 +13,6 @@ process.
 
 ## Banners with "Fatiando a Terra" written on them
 
-`fatiando-banner.png`:
-
-![The banner](fatiando-banner.png)
-
 `fatiando-banner-long.png`:
 
 ![The banner in one line](fatiando-banner-long.png)
