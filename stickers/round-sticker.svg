@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="fatiando-round-sticker.svg"
+   sodipodi:docname="round-sticker.svg"
    inkscape:export-filename="fatiando-logo-noborder.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1215343"
-     inkscape:cx="54.791814"
+     inkscape:cx="58.358356"
      inkscape:cy="120.23363"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,15 +57,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-875.19673)">
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80900002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3928"
-       width="177.16536"
-       height="177.16536"
-       x="-7.6293945e-06"
-       y="875.19672"
-       rx="0.57636023"
-       ry="0.51720887" />
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:#ffffff;stroke:none;stroke-width:0.80900002000000004;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -74,7 +65,7 @@
        sodipodi:cy="64.665344"
        sodipodi:rx="71.428574"
        sodipodi:ry="68.928574"
-       d="m 0,64.665344 a 71.428574,68.928574 0 1 1 -142.85715,0 71.428574,68.928574 0 1 1 142.85715,0 z"
+       d="m 0,64.665344 c 0,38.068196 -31.979662,68.928576 -71.428574,68.928576 -39.448916,0 -71.428576,-30.86038 -71.428576,-68.928576 0,-38.0682 31.97966,-68.9285734 71.428576,-68.9285734 C -31.979662,-4.2632294 0,26.597144 0,64.665344 z"
        transform="matrix(1.2330492,0,0,1.2777712,176.65762,881.15189)" />
     <g
        id="g3909"
