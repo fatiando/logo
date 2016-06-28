@@ -14,9 +14,9 @@
    height="300.03119"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="fatiando-banner-homepage.svg"
-   inkscape:export-filename="/home/leo/src/fatiando-logo/fatiando-banner-homepage.png"
+   inkscape:export-filename="fatiando-banner-homepage.png"
    inkscape:export-xdpi="89.990646"
    inkscape:export-ydpi="89.990646">
   <defs
@@ -271,9 +271,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="613.32567"
-     inkscape:cy="326.01904"
+     inkscape:zoom="0.35"
+     inkscape:cx="624.34546"
+     inkscape:cy="285.67076"
      inkscape:document-units="px"
      inkscape:current-layer="g3117"
      showgrid="false"
@@ -282,9 +282,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="743"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="6"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -402,25 +402,26 @@
       <text
          sodipodi:linespacing="125%"
          id="text3613-1"
-         y="621.83771"
-         x="963.17487"
-         style="font-size:68.9155426px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
-         xml:space="preserve"><tspan
-           style="font-size:63.13175583px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
-           y="621.83771"
-           x="963.17487"
+         y="614.90491"
+         x="969.43616"
+         style="font-size:62.69277954px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
+         xml:space="preserve"
+         transform="scale(0.99356498,1.0064767)"><tspan
+           style="font-size:57.43124771px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
+           y="614.90491"
+           x="969.43616"
            id="tspan3615-8"
-           sodipodi:role="line">modeling and inversion in geophysics</tspan></text>
+           sodipodi:role="line">open-source library for modeling and inversion in geophysics</tspan></text>
       <text
          sodipodi:linespacing="0%"
          id="text3418"
-         y="537.09155"
+         y="543.09155"
          x="951.17487"
          style="font-size:15.83167458px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:-15.265769px;fill:#333333;fill-opacity:1;stroke:none;font-family:sans;-inkscape-font-specification:sans"
          xml:space="preserve"><tspan
            id="tspan3442"
            style="font-size:233.58750916px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:0px;word-spacing:-15.265769px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
-           y="537.09155"
+           y="543.09155"
            x="951.17487"
            sodipodi:role="line"><tspan
              id="tspan3286"
