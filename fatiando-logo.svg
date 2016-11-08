@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="fatiando-logo.svg"
-   inkscape:export-filename="/home/leo/src/fatiando/logo/fatiando-logo.png"
+   inkscape:export-filename="fatiando-logo.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -75,9 +75,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="25.403453"
-     inkscape:cy="50.68169"
+     inkscape:zoom="0.99999996"
+     inkscape:cx="162.91519"
+     inkscape:cy="82.226378"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -502,12 +502,6 @@
            id="path3290"
            transform="translate(0,952.36218)"
            inkscape:connector-curvature="0" />
-        <path
-           style="fill:#fafafa;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           d="m 43.543435,952.85184 c -0.575172,0.5067 -0.991519,0.79571 -0.974976,1.55096 0.06314,0.26832 0.701861,1.91709 1.325826,2.24128 0.623965,0.32418 1.062537,-0.0997 1.60993,-0.12627 0.547393,-0.0266 1.049953,0.10414 1.673065,-0.0316 0.623112,-0.1357 1.374933,-0.30634 1.974505,-0.8582 0.599572,-0.55187 1.145807,-1.83985 1.294643,-2.41072 0.125786,-0.39136 -0.215654,-0.77097 -0.427974,-0.8036 -0.597884,-0.0919 -1.382917,0.008 -2.253773,0.0366 -0.805172,0.0331 -1.362619,0.0419 -2.033749,0.12436 -0.67113,0.0824 -2.187497,0.15298 -2.187497,0.27723 z"
-           id="path3301"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cczzzzcsczsc" />
       </g>
     </g>
   </g>
