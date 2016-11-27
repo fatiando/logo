@@ -1,23 +1,21 @@
 # Vector and raster files for The Fatiando a Terra logo
 
-The logo was hand-drawn (see `original-scan`), scanned, and tweaked in
-[Inkscape](https://inkscape.org/en/).
-See [PR #2](https://github.com/fatiando/logo/pull/2) for more details of the
-process.
+The logo was designed in [Inkscape](https://inkscape.org/en/). Use it to open
+and edit the SVG files. There are also PNGs for use in websites, etc.
 
 ## The logo
 
 `fatiando-logo.png`:
 
-![The logo](fatiando-logo.png)
+<img src="fatiando-logo.png" height="100px">
 
 ## Banners with "Fatiando a Terra" written on them
 
 Useful for embedding in websites and presentations:
 
-`fatiando-banner-long.png`:
+`fatiando-banner.png`:
 
-![The banner in one line](fatiando-banner-long.png)
+![The banner in one line](fatiando-banner.png)
 
 `fatiando-banner-with-url.png`:
 
