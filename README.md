@@ -13,9 +13,9 @@ and edit the SVG files. There are also PNGs for use in websites, etc.
 
 Useful for embedding in websites and presentations:
 
-`fatiando-banner-long.png`:
+`fatiando-banner.png`:
 
-![The banner in one line](fatiando-banner-long.png)
+![The banner in one line](fatiando-banner.png)
 
 `fatiando-banner-with-url.png`:
 
