@@ -24,3 +24,16 @@ Useful for embedding in websites and presentations:
 `fatiando-banner-homepage.png`:
 
 ![The banner with a description below](fatiando-banner-homepage.png)
+
+## Wallpaper
+
+A 1920 x 1080 sized wallpaper:
+
+`fatiando-wallpaper.png`:
+
+<img src="fatiando-wallpaper.png" width="800px">
+
+## License
+
+All logo files are public domain
+([CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/)).
