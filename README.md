@@ -9,25 +9,9 @@ and edit the SVG files. There are also PNGs for use in websites, etc.
 
 <img src="fatiando-logo.png" height="100px">
 
-## Banners with "Fatiando a Terra" written on them
-
-Useful for embedding in websites and presentations:
-
-`fatiando-banner.png`:
-
-![The banner in one line](fatiando-banner.png)
-
-`fatiando-banner-with-url.png`:
-
-![The banner with the fatiando.org url](fatiando-banner-with-url.png)
-
-`fatiando-banner-homepage.png`:
-
-![The banner with a description below](fatiando-banner-homepage.png)
-
 ## Wallpaper
 
-A 1920 x 1080 sized wallpaper:
+A 3200 x 1800 sized wallpaper:
 
 `fatiando-wallpaper.png`:
 
