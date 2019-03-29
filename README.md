@@ -5,7 +5,7 @@ and edit the SVG files. There are also PNGs for use in presentations, etc.
 
 Download all source files in a zip archive: [`logo-master.zip`](https://github.com/fatiando/logo/archive/master.zip)
 
-## The logo
+## The Fatiando logo
 
 `fatiando-logo.png`:
 
@@ -15,6 +15,11 @@ Download all source files in a zip archive: [`logo-master.zip`](https://github.c
 
 <img src="fatiando-logo-background.png" height="100px">
 
+## The Pooch logo
+
+`pooch-logo.png`:
+
+<img src="pooch-logo.png" height="100px">
 
 ## Wallpaper
 
