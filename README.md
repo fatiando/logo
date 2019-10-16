@@ -35,7 +35,7 @@ Download all source files in a zip archive: [`logo-master.zip`](https://github.c
 
 ## Wallpaper
 
-A 3200 x 1800 sized wallpaper:
+A 4k widescreen wallpaper:
 
 `fatiando-wallpaper.png`:
 
