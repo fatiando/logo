@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="80.55078"
-     inkscape:cy="-126.00665"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="688.39621"
+     inkscape:cy="115.02439"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     scale-x="0.1" />
+     scale-x="0.1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-object-midpoints="true" />
   <defs
      id="defs4"
      style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
@@ -2097,12 +2101,12 @@
          x="46.615215"
          y="1052.5348" /></text>
     <g
-       id="g4371"
-       transform="translate(-19.571875,141.84764)"
+       id="g527"
+       transform="translate(-12.058914)"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
       <g
          style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         transform="matrix(3.1896906,0,0,3.1896906,-226.50059,-2614.0164)"
+         transform="matrix(2.861749,0,0,2.861749,-185.32315,-2156.9301)"
          id="g1072">
         <path
            inkscape:connector-curvature="0"
@@ -2191,7 +2195,7 @@
       </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         transform="translate(0,-3.6403173)"
+         transform="matrix(0.897187,0,0,0.897187,46.090883,199.36599)"
          id="g4301">
         <g
            aria-label="Fatiando a Terra"
