@@ -1,9 +1,18 @@
 # Vector and raster files for The Fatiando a Terra logo
 
-The logo was designed in [Inkscape](https://inkscape.org/en/). Use it to open
+The logos were designed in [Inkscape](https://inkscape.org/en/). Use it to open
 and edit the SVG files. There are also PNGs for use in presentations, etc.
 
-Download all source files in a zip archive: [`logo-master.zip`](https://github.com/fatiando/logo/archive/master.zip)
+Download all source files in a zip archive:
+[`logo-master.zip`](https://github.com/fatiando/logo/archive/master.zip)
+
+The `social` folder has banners used for sharing on social media, our YouTube
+channel, etc.
+
+The `banner` folder has banners for websites and presentations.
+
+The `assets` folder has SVG files with visual elements used to create some of
+the logos.
 
 ## Fatiando
 
@@ -14,6 +23,14 @@ Download all source files in a zip archive: [`logo-master.zip`](https://github.c
 `fatiando-logo-background.png`:
 
 <img src="fatiando-logo-background.png" height="100px">
+
+## Wallpaper
+
+A 4k widescreen wallpaper:
+
+`fatiando-wallpaper.png`:
+
+<img src="fatiando-wallpaper.png" width="800px">
 
 ## Pooch
 
@@ -32,14 +49,6 @@ Download all source files in a zip archive: [`logo-master.zip`](https://github.c
 `harmonica-logo.png`:
 
 <img src="harmonica-logo.png" height="100px">
-
-## Wallpaper
-
-A 4k widescreen wallpaper:
-
-`fatiando-wallpaper.png`:
-
-<img src="fatiando-wallpaper.png" width="800px">
 
 ## License
 
