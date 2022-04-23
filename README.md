@@ -50,6 +50,12 @@ A 4k widescreen wallpaper:
 
 <img src="harmonica-logo.png" height="100px">
 
+## Ensaio
+
+`ensaio-logo.png`:
+
+<img src="ensaio-logo.png" height="100px">
+
 ## License
 
 All logo files are public domain
