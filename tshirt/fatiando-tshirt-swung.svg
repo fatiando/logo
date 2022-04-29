@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="fatiando-tshirt.svg"
+   sodipodi:docname="fatiando-tshirt-swung.svg"
    inkscape:export-filename="fatiando-tshirt-swung.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
@@ -30,7 +30,7 @@
      inkscape:cx="277.00001"
      inkscape:cy="160.00001"
      inkscape:document-units="px"
-     inkscape:current-layer="g203963"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
@@ -1587,7 +1587,7 @@
      inkscape:label="Layer 1">
     <text
        xml:space="preserve"
-       style="font-size:73.8669px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;fill:#f3f3f3;fill-opacity:1;stroke-width:1.108;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+       style="font-size:73.8669px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;fill:#808080;fill-opacity:1;stroke-width:1.108;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        x="-157.69594"
        y="1312.9519"
        id="text7399-6"><tspan
@@ -1595,16 +1595,16 @@
          id="tspan7397-7"
          x="-157.69594"
          y="1312.9519"
-         style="fill:#f3f3f3;fill-opacity:1;stroke-width:1.108">fatiando.org</tspan><tspan
+         style="fill:#808080;fill-opacity:1;stroke-width:1.108">fatiando.org</tspan><tspan
          sodipodi:role="line"
          x="-157.69594"
          y="1405.2855"
-         style="fill:#f3f3f3;fill-opacity:1;stroke-width:1.108"
+         style="fill:#808080;fill-opacity:1;stroke-width:1.108"
          id="tspan11045-5" /><tspan
          sodipodi:role="line"
          x="-157.69594"
          y="1497.6191"
-         style="fill:#f3f3f3;fill-opacity:1;stroke-width:1.108"
+         style="fill:#808080;fill-opacity:1;stroke-width:1.108"
          id="tspan11047-3" /></text>
     <rect
        rx="0"
