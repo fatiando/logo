@@ -50,6 +50,12 @@ A 4k widescreen wallpaper:
 
 <img src="harmonica-logo.png" height="100px">
 
+## Boule
+
+`boule-logo.png`:
+
+<img src="boule-logo.png" height="100px">
+
 ## Ensaio
 
 `ensaio-logo.png`:
