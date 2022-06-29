@@ -3,64 +3,34 @@
 The logos were designed in [Inkscape](https://inkscape.org/en/). Use it to open
 and edit the SVG files. There are also PNGs for use in presentations, etc.
 
-Download all source files in a zip archive:
-[`logo-master.zip`](https://github.com/fatiando/logo/archive/master.zip)
+## Logos
 
-The `social` folder has banners used for sharing on social media, our YouTube
-channel, etc.
+**Download all**:
+[`logo-main.zip`](https://github.com/fatiando/logo/archive/main.zip)
 
-The `banner` folder has banners for websites and presentations.
-
-The `assets` folder has SVG files with visual elements used to create some of
-the logos.
-
-## Fatiando
-
-`fatiando-logo.png`:
-
-<img src="fatiando-logo.png" height="100px">
-
-`fatiando-logo-background.png`:
-
-<img src="fatiando-logo-background.png" height="100px">
+| Name | Logo | Download | 
+|------|------|----------|
+| Project logo | <img src="fatiando-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/fatiando-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/fatiando-logo.svg) |
+| Project logo (background) | <img src="fatiando-logo-background.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/fatiando-logo-background.png) / [SVG](https://github.com/fatiando/logo/raw/main/fatiando-logo-background.svg) |
+| Pooch | <img src="pooch-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/pooch-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/pooch-logo.svg) |
+| Verde | <img src="verde-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/verde-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/verde-logo.svg) |
+| Harmonica | <img src="harmonica-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/harmonica-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/harmonica-logo.svg) |
+| Boule | <img src="boule-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/boule-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/boule-logo.svg) |
+| Ensaio | <img src="ensaio-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/ensaio-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/ensaio-logo.svg) |
 
 ## Wallpaper
 
-A 4k widescreen wallpaper:
+A 4k widescreen wallpaper: [`fatiando-wallpaper.png`](https://github.com/fatiando/logo/raw/main/fatiando-wallpaper.png)
 
-`fatiando-wallpaper.png`:
+<img src="fatiando-wallpaper.png" width="100%">
 
-<img src="fatiando-wallpaper.png" width="800px">
+## Other assets
 
-## Pooch
+`social`: Banners used for sharing on social media, our YouTube channel, etc.
 
-`pooch-logo.png`:
+`banner`: Banners for websites and presentations.
 
-<img src="pooch-logo.png" height="100px">
-
-## Verde
-
-`verde-logo.png`:
-
-<img src="verde-logo.png" height="100px">
-
-## Harmonica
-
-`harmonica-logo.png`:
-
-<img src="harmonica-logo.png" height="100px">
-
-## Boule
-
-`boule-logo.png`:
-
-<img src="boule-logo.png" height="100px">
-
-## Ensaio
-
-`ensaio-logo.png`:
-
-<img src="ensaio-logo.png" height="100px">
+`assets`: SVG files with visual elements used to create some of the logos.
 
 ## License
 
