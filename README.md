@@ -17,6 +17,7 @@ and edit the SVG files. There are also PNGs for use in presentations, etc.
 | Harmonica | <img src="harmonica-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/harmonica-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/harmonica-logo.svg) |
 | Boule | <img src="boule-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/boule-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/boule-logo.svg) |
 | Ensaio | <img src="ensaio-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/ensaio-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/ensaio-logo.svg) |
+| Choclo | <img src="choclo-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/choclo-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/choclo-logo.svg) |
 
 ## Wallpaper
 
