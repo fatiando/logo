@@ -8,7 +8,7 @@ and edit the SVG files. There are also PNGs for use in presentations, etc.
 **Download all**:
 [`logo-main.zip`](https://github.com/fatiando/logo/archive/main.zip)
 
-| Name | Logo | Download | 
+| Name | Logo | Download |
 |------|------|----------|
 | Project logo | <img src="fatiando-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/fatiando-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/fatiando-logo.svg) |
 | Project logo (background) | <img src="fatiando-logo-background.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/fatiando-logo-background.png) / [SVG](https://github.com/fatiando/logo/raw/main/fatiando-logo-background.svg) |
@@ -18,6 +18,7 @@ and edit the SVG files. There are also PNGs for use in presentations, etc.
 | Boule | <img src="boule-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/boule-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/boule-logo.svg) |
 | Ensaio | <img src="ensaio-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/ensaio-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/ensaio-logo.svg) |
 | Choclo | <img src="choclo-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/choclo-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/choclo-logo.svg) |
+| Magali | <img src="magali-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/magali-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/magali-logo.svg) |
 
 ## Wallpaper
 
