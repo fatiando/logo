@@ -10,15 +10,15 @@ and edit the SVG files. There are also PNGs for use in presentations, etc.
 
 | Name | Logo | Download |
 |------|------|----------|
-| Project logo | <img src="fatiando-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo.svg) |
-| Project logo (background) | <img src="fatiando-logo-background.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo-background.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo-background.svg) |
-| Pooch | <img src="pooch-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/pooch-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/pooch-logo.svg) |
-| Verde | <img src="verde-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/verde-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/verde-logo.svg) |
-| Harmonica | <img src="harmonica-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/harmonica-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/harmonica-logo.svg) |
-| Boule | <img src="boule-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/boule-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/boule-logo.svg) |
-| Ensaio | <img src="ensaio-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/ensaio-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/ensaio-logo.svg) |
-| Choclo | <img src="choclo-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/choclo-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/choclo-logo.svg) |
-| Magali | <img src="magali-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/magali-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/magali-logo.svg) |
+| Project logo | <img src="logos/fatiando-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo.svg) |
+| Project logo (background) | <img src="logos/fatiando-logo-background.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo-background.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/fatiando-logo-background.svg) |
+| Pooch | <img src="logos/pooch-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/pooch-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/pooch-logo.svg) |
+| Verde | <img src="logos/verde-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/verde-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/verde-logo.svg) |
+| Harmonica | <img src="logos/harmonica-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/harmonica-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/harmonica-logo.svg) |
+| Boule | <img src="logos/boule-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/boule-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/boule-logo.svg) |
+| Ensaio | <img src="logos/ensaio-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/ensaio-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/ensaio-logo.svg) |
+| Choclo | <img src="logos/choclo-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/choclo-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/choclo-logo.svg) |
+| Magali | <img src="logos/magali-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/magali-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/magali-logo.svg) |
 
 ## Wallpaper
 
