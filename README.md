@@ -19,6 +19,7 @@ and edit the SVG files. There are also PNGs for use in presentations, etc.
 | Ensaio | <img src="logos/ensaio-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/ensaio-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/ensaio-logo.svg) |
 | Choclo | <img src="logos/choclo-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/choclo-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/choclo-logo.svg) |
 | Magali | <img src="logos/magali-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/magali-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/magali-logo.svg) |
+| Bordado | <img src="logos/bordado-logo.png" height="100px"> | [PNG](https://github.com/fatiando/logo/raw/main/logos/bordado-logo.png) / [SVG](https://github.com/fatiando/logo/raw/main/logos/bordado-logo.svg) |
 
 ## Wallpaper
 
